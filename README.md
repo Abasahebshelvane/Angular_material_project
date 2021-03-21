@@ -1,6 +1,10 @@
 # CompleteAngularMaterialApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
+Angular version 6.0.0.
+Install the NPM
+Install Firebase2
+
+
 
 ## Development server
 
